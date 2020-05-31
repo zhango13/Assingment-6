@@ -14,4 +14,4 @@ Task2. Observer pattern. Design a postal office. Papers and magazines come from
 the publisher’s house to the postal office. The postal office sends out the
 received papers and magazines to corresponding subscribers
 
-Assingment6.rar is to download a codes and ti try it by yourself.
+Assingment 6.rar is to download a codes and to try it by yourself.
